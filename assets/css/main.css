@@ -3027,11 +3027,19 @@
 			opacity: 1;
 		}
 
+<<<<<<< HEAD
 	/* Banner */
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
 }
+=======
+/* Banner */
+
+	#banner {
+		padding: 10em 0 4.75em 0 ;
+	}
+>>>>>>> origin/master
 
 		#banner .inner {
 			margin: 0 auto;
@@ -3118,7 +3126,11 @@
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
+<<<<<<< HEAD
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/Sky.JPG");
+=======
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+>>>>>>> origin/master
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
